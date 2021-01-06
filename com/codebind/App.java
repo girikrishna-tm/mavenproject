@@ -18,8 +18,8 @@ public class App {
 		}
 		//Close the input stream
 		in.close();
-		}catch (Exception e){//Catch exception if any
-			System.err.println("Error: " + e.getMessage());
+		}catch (Exception df){//Catch exception if any
+			System.err.println("Error: " + df.getMessage());
 		}
 	}
 }
